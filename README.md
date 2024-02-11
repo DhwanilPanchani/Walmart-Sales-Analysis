@@ -1,4 +1,4 @@
 # Walmart Weekly Sales Data Analysis
 
 ## Overview
-In this Jupyter Notebook, we will perform an analysis of Walmart sales data for 45 stores between the period of 2010-02-05 to 2012-10-26. The dataset includes various features such as store information, department details, economic indicators like CPI and unemployment rate, weather information, fuel prices, and more. The main objective is to predict the weekly sales based on these features.
+The objective of this data science project is to build a model to predict the weekly sales for 45 Walmart stores over the time period spanning 2010-02-05 to 2012-10-26. The project will utilize a dataset that contains store-specific features, department-level details, economic indicators, weather data, fuel prices, and other relevant variables that may influence sales.
